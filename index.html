@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skunkworks Media Library</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        h2 {
+            color: #333;
+        }
+        .media {
+            margin: 15px 0;
+        }
+        .media img {
+            max-width: 100%;
+            height: auto;
+        }
+        .media video {
+            max-width: 100%;
+            height: auto;
+        }
+        .download-link {
+            display: inline-block;
+            background: #007bff;
+            color: #ffffff;
+            padding: 10px 15px;
+            border-radius: 5px;
+            margin-top: 5px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Skunkworks Media Downloads</h1>
+
+        <h2>Images</h2>
+        <!-- List images -->
+        <div class="media">
+            <img src="path/to/image.png" alt="Description">
+            <a href="path/to/image.png" download class="download-link">Download</a>
+        </div>
+        <!-- Repeat for other images -->
+
+        <h2>Videos</h2>
+        <!-- List videos -->
+        <div class="media">
+            <video controls>
+                <source src="path/to/video.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <a href="path/to/video.mp4" download class="download-link">Download</a>
+        </div>
+        <!-- Repeat for other videos -->
+
+        <h2>Other Files</h2>
+        <!-- List other files like GIFs, PSDs, etc. -->
+        <div class="media">
+            <a href="path/to/file.psd" download class="download-link">Download PSD File</a>
+        </div>
+        <!-- Repeat for other file types -->
+    </div>
+</body>
+</html>

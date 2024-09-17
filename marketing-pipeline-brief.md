@@ -139,9 +139,7 @@ Below is a table with **50 categorized resources**, where the **Resource** colum
 | ![Udemy](https://img.shields.io/badge/Udemy-Online%20Courses-yellowgreen) | Large online learning platform with courses on marketing, tech, and business. | [Udemy](https://www.udemy.com) |
 | ![edX](https://img.shields.io/badge/edX-Online%20Courses-purple) | A platform providing university-level online courses. | [edX](https://www.edx.org) |
 | ![Skillshare](https://img.shields.io/badge/Skillshare-Online%20Creative%20Courses-blue) | A platform offering creative, tech, and business courses. | [Skillshare](https://www.skillshare.com) |
-| ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-Professional%20Development-lightblue) | Professional
-
- development courses and video tutorials on LinkedIn. | [LinkedIn Learning](https://www.linkedin.com/learning) |
+| ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-Professional%20Development-lightblue) | Professional development courses and video tutorials on LinkedIn. | [LinkedIn Learning](https://www.linkedin.com/learning) |
 | ![Google Analytics Academy](https://img.shields.io/badge/Google%20Analytics%20Academy-Analytics%20Training-brightgreen) | Free courses to learn how to use Google Analytics and other Google tools. | [Google Analytics Academy](https://analytics.google.com/analytics/academy) |
 | ![HubSpot Academy](https://img.shields.io/badge/HubSpot%20Academy-Marketing%20&%20Sales%20Courses-orange) | Free marketing, sales, and service training courses by HubSpot. | [HubSpot Academy](https://academy.hubspot.com) |
 | ![Google Skillshop](https://img.shields.io/badge/Google%20Skillshop-Google%20Product%20Training-red) | Free training courses on Google Ads, Analytics, and other Google products. | [Google Skillshop](https://skillshop.withgoogle.com) |
